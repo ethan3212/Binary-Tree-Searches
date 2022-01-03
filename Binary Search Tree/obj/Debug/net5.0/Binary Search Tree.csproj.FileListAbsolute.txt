@@ -1,0 +1,16 @@
+C:\Users\ethan\source\repos\Binary Search Tree\bin\Debug\net5.0\Binary Search Tree.exe
+C:\Users\ethan\source\repos\Binary Search Tree\bin\Debug\net5.0\Binary Search Tree.deps.json
+C:\Users\ethan\source\repos\Binary Search Tree\bin\Debug\net5.0\Binary Search Tree.runtimeconfig.json
+C:\Users\ethan\source\repos\Binary Search Tree\bin\Debug\net5.0\Binary Search Tree.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Binary Search Tree\bin\Debug\net5.0\Binary Search Tree.dll
+C:\Users\ethan\source\repos\Binary Search Tree\bin\Debug\net5.0\ref\Binary Search Tree.dll
+C:\Users\ethan\source\repos\Binary Search Tree\bin\Debug\net5.0\Binary Search Tree.pdb
+C:\Users\ethan\source\repos\Binary Search Tree\obj\Debug\net5.0\Binary Search Tree.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\Binary Search Tree\obj\Debug\net5.0\Binary Search Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\source\repos\Binary Search Tree\obj\Debug\net5.0\Binary Search Tree.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Binary Search Tree\obj\Debug\net5.0\Binary Search Tree.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Binary Search Tree\obj\Debug\net5.0\Binary Search Tree.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Binary Search Tree\obj\Debug\net5.0\Binary Search Tree.dll
+C:\Users\ethan\source\repos\Binary Search Tree\obj\Debug\net5.0\ref\Binary Search Tree.dll
+C:\Users\ethan\source\repos\Binary Search Tree\obj\Debug\net5.0\Binary Search Tree.pdb
+C:\Users\ethan\source\repos\Binary Search Tree\obj\Debug\net5.0\Binary Search Tree.genruntimeconfig.cache
